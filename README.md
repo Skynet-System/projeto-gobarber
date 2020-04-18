@@ -19,6 +19,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [NodeJS](http://www.nodejs.org)
 - [ReactJS](http://www.reactjs.org)
 - [Docker](https://www.docker.com/)
+- [Postbird](https://www.electronjs.org/apps/postbird)
 ---
 ## 📂Como baixar o projeto
 ---
