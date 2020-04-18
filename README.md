@@ -24,7 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ---
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/Skynet-System/gobarber-inicio
+$ git clone https://github.com/Skynet-System/projeto-gobarber
 
 # Entrar no diretório
 $ cd gobarber-inicio
